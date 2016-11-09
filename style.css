@@ -1,0 +1,52 @@
+body{
+  background-image: url("aiguille-du-midi.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-size: 30px;
+  line-height: 35px;
+  font-weight: bold;
+}
+h2{
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: bold;
+}
+#logo{
+  width: 200px;
+  height: 200px;
+  border: 2px solid #CCCCCC;
+}
+.basicblock{
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  margin: 20px auto;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+.illustration{
+  width: 200px;
+  height: 300px;
+}
+a{
+  color: #0e4e8a;
+  text-decoration: none;
+}
+.list-inline{
+  list-style: none
+}
+.img-circle {
+  border-radius: 50%;
+}
